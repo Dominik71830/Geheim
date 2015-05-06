@@ -1,7 +1,7 @@
 Sprity i inne grafiki:
-1.Pierwszy informator.
-2.Drugi informator.
-3.Cygan
+//1.Pierwszy informator.
+//2.Drugi informator.
+//3.Cygan
 4.Pos¹g
 5.Sos czy tam coœ do zbierania
 6.Zniszczony pos¹g.
