@@ -2,7 +2,7 @@ Sprity i inne grafiki:
 //1.Pierwszy informator.
 //2.Drugi informator.
 //3.Cygan
-4.Pos¹g
+przyda³oby sie pochyliæ//4.Pos¹g
 5.Sos czy tam coœ do zbierania
 6.Zniszczony pos¹g.
 7.Coœ ograniczaj¹ce boss_room, ze 2 obiekty jako przeszkody i t³o
@@ -10,10 +10,9 @@ Sprity i inne grafiki:
 DŸwiêki:
 1.Muzyka t³a
 2.Muzyka do samochodu.
-3.Muzyka do walki z bossem.
-4.Wyœwietlanie siê okienka.
-5.Krzyk.
-6.Zebranie sosu.
+//3.Muzyka do walki z bossem.
+//5.Krzyk.
+//6.Zebranie sosu.
 7.Dzwonek w telefonie.
 8.DŸwiêk wygranej
 9.DŸwiêk przegranej
